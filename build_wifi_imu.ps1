@@ -58,6 +58,11 @@ try {
 
     $sources = @(
         @{ Source = (Join-Path $projectRoot "user\src\main.c"); Object = "main.obj" },
+        @{ Source = (Join-Path $projectRoot "user\src\pid.c"); Object = "pid.obj" },
+        @{ Source = (Join-Path $projectRoot "user\src\encoder.c"); Object = "encoder.obj" },
+        @{ Source = (Join-Path $projectRoot "user\src\motor.c"); Object = "motor.obj" },
+        @{ Source = (Join-Path $projectRoot "user\src\imu963.c"); Object = "imu963.obj" },
+        @{ Source = (Join-Path $projectRoot "user\src\wifi.c"); Object = "wifi.obj" },
         @{ Source = (Join-Path $configDir "ti_msp_dl_config.c"); Object = "ti_msp_dl_config.obj" },
         @{ Source = (Join-Path $repoRoot "libraries\zf_common\zf_common_debug.c"); Object = "zf_common_debug.obj" },
         @{ Source = (Join-Path $repoRoot "libraries\zf_common\zf_common_fifo.c"); Object = "zf_common_fifo.obj" },

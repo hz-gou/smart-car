@@ -392,6 +392,56 @@
               <FileType>1</FileType>
               <FilePath>..\user\src\main.c</FilePath>
             </File>
+            <File>
+              <FileName>pid.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\src\pid.c</FilePath>
+            </File>
+            <File>
+              <FileName>pid.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\inc\pid.h</FilePath>
+            </File>
+            <File>
+              <FileName>encoder.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\src\encoder.c</FilePath>
+            </File>
+            <File>
+              <FileName>encoder.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\inc\encoder.h</FilePath>
+            </File>
+            <File>
+              <FileName>motor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\src\motor.c</FilePath>
+            </File>
+            <File>
+              <FileName>motor.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\inc\motor.h</FilePath>
+            </File>
+            <File>
+              <FileName>wifi.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\src\wifi.c</FilePath>
+            </File>
+            <File>
+              <FileName>wifi.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\inc\wifi.h</FilePath>
+            </File>
+            <File>
+              <FileName>imu963.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\user\src\imu963.c</FilePath>
+            </File>
+            <File>
+              <FileName>imu963.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\user\inc\imu963.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

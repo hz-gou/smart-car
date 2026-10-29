@@ -1,0 +1,6 @@
+build/
+mdk/Objects/
+mdk/Listings/
+user/src/.idea/
+*.uvguix.*
+*.uvoptx
